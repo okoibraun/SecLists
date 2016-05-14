@@ -1,3 +1,5 @@
+![seclists.png](https://danielmiessler.com/images/seclists-long.png "seclists.png") 
+
 # About
 
 SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. The goal is to enable a security tester to pull this repo onto a new testing box and have access to every type of list that may be needed.
@@ -31,5 +33,8 @@ Significant effort is made to give attribution for these lists whenever possible
 - Steve Crapo for doing splitting work on a number of large lists
 - Thanks to Blessen Thomas for recommending Mario's/cure53's XSS vectors
 - Thanks to Danny Chrastil for submitting an anonymous JSON fuzzing list
+- Many thanks to geekspeed, EricSB, lukebeer, patrickmollohan, g0tmi1k, albinowax, and Oweoqui for submitting via pull requests
+- Special thanks to shipcod3 for MANY contributions!
+- Thanks to Samar Dhwoj Acharya for allowing his Github Dorks content to be included!
 
-::
+This project stays great because of care and love from the community, and we will never forget that.
